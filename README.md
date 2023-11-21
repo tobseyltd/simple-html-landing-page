@@ -1,3 +1,3 @@
-# simple-html-landing-page
+## simple-html-landing-page
 
 ### Hallo
